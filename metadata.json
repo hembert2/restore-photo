@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Enhancer",
+  "description": "An application to restore old photos and generate new images using AI. Upload a photo to restore its color and quality, or write a prompt to generate a new image with a specified aspect ratio.",
+  "requestFramePermissions": []
+}
